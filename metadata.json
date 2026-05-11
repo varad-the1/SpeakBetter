@@ -1,0 +1,7 @@
+{
+  "name": "SpeakBetter",
+  "description": "Professional-grade AI Communication Intelligence Platform. Advanced speech analytics, interview simulation, and behavioral insights for high-stakes speakers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
